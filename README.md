@@ -56,11 +56,7 @@ PATENT-Artifcial-xyDNA/
 ---
 
 ## Machine Learning Pipeline
-NEGF and DFT based simulations were systematically performed to generate transmission signal datasets for individual nucleobases under multiple structural configurations and operating conditions.
-Important numerical characteristics were carefully extracted from the generated signals and then organized into a structured descriptor matrix suitable for advanced machine learning analysis.
-Several supervised machine learning algorithms were trained, compared, and hyperparameter optimized in order to identify the most accurate and reliable predictive model.
-The highest performing model was further assessed through comprehensive validation procedures using standard statistical performance metrics to confirm robustness and consistency.
-The finalized predictive framework was then applied for basecalling tasks to estimate per-nucleobase classification accuracy with interpretable decision outcomes
+Quantum transport simulations were systematically performed to generate transmission signal datasets for individual nucleobases under multiple structural configurations and operating conditions. Important numerical characteristics were carefully extracted from the generated signals and then organized into a structured descriptor matrix suitable for advanced machine learning analysis. Several supervised machine learning algorithms were trained, compared, and hyperparameter optimized in order to identify the most accurate and reliable predictive model. The highest performing model was further assessed through comprehensive validation procedures using standard statistical performance metrics to confirm robustness and consistency. The finalized predictive framework was then applied for basecalling tasks to estimate per-nucleobase classification accuracy with interpretable decision outcomes
 
 ### Prerequisites
 
