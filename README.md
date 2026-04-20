@@ -62,20 +62,6 @@ Several supervised machine learning algorithms were trained, compared, and hyper
 The highest performing model was further assessed through comprehensive validation procedures using standard statistical performance metrics to confirm robustness and consistency.
 The finalized predictive framework was then applied for basecalling tasks to estimate per-nucleobase classification accuracy with interpretable decision outcomes
 
-
-
-| Nucleobase | Primary SHAP Driver | Physical Basis |
-|-----------|---------------------|---------------|
-| xA, xG, xT | **Min** (highest) | Min T(E) encodes anti-resonance/destructive interference unique to each nucleobase junction |
-| xC, yT | **Mean** | Mean T(E) distinguishes spectral distribution signatures |
-| yA, yC, yT | **Max** | Peak transmission reflects near-Fermi resonance coupling magnitudes |
-
-**Physical insight:**
-- **Min for xDNA** → deepest tunnelling suppression points encode junction-specific destructive interference — inaccessible from HOMO/LUMO
-- **Max for yDNA** → resonance peak magnitudes at near-Fermi MO energies vary distinctly across yDNA family geometries
-- SHAP validates that **T(E)-derived descriptors capture junction-level electronic coupling** — the central inventive claim
-
-
 ### Prerequisites
 
 ```bash
