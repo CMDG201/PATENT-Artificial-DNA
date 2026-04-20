@@ -551,19 +551,6 @@ Confusion matrices, ROC-AUC curves, SHAP plots, learning curves, pair classifica
 
 ---
 
-## 📋 Patent and Funding Information
-
-| Field | Details |
-|-------|---------|
-| Application Number | 202521002474 |
-| Date of Filing | January 10, 2025 |
-| Date of Publication | September 26, 2025 |
-| First Examination Report | March 06, 2026 |
-| **FER Response Due** | **September 06, 2026** |
-| Controller | Dr. Md Jawed Ansaree |
-| Examiner | Ayush Poonia |
-| Patent Agent | Manisha Singh, LexOrbis, New Delhi |
-
 ### Inventors
 
 | Name | Affiliation | ORCID |
@@ -571,17 +558,6 @@ Confusion matrices, ROC-AUC curves, SHAP plots, learning curves, pair classifica
 | Milan Kumar Jena | Dept. Chemistry, IIT Indore | 0000-0002-8363-1291 |
 | Sneha Mittal | Dept. Chemistry, IIT Indore | 0000-0003-2567-4274 |
 | Prof. Biswarup Pathak | Dept. Chemistry, IIT Indore | 0000-0002-9972-9947 |
-
-### Funding
-
-| Agency | Project Number |
-|--------|----------------|
-| BRNS | 2023-BRNS/12356 |
-| SPARC | CRG/2022/000836 |
-| CSIR | 01(3046)/21/EMR-II |
-| MoE | Fellowship (M.K.J.) |
-| UGC | Fellowship (S.M.) |
-| IIT Indore | HPC + Laboratory |
 
 ---
 
@@ -592,8 +568,6 @@ This repository is published solely to support **Indian Patent Application No. 2
 **Any reproduction, commercial use, or incorporation without written authorisation from IIT Indore is strictly prohibited.**
 
 Scientific enquiries: **Prof. Biswarup Pathak** | biswarup@iiti.ac.in  
-Patent enquiries: **LexOrbis** | mail@lexorbis.com
-
 ---
 
 <div align="center">
